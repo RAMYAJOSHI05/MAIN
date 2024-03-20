@@ -1,3 +1,3 @@
 # MAIN
 This is the 1st repo
-This is first commit
+This is first committ
